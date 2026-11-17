@@ -19,9 +19,9 @@
         <mesh name="robot0:forearm_link" file="forearm_link.stl" />
         <mesh name="robot0:wrist_link" file="wrist_link.stl" />
         <mesh name="robot0:hand_link" file="hand_link.stl" />
-        <mesh name="robot0:base_gripper" file="base_gripper_1.stl" />
-        <mesh name="robot0:r_gripper_finger_link" file="mors_1.stl" />
-        <mesh name="robot0:l_gripper_finger_link" file="mors_2.stl" />
+        <mesh name="robot0:base_gripper" file="base_gripper_1.STL" />
+        <mesh name="robot0:r_gripper_finger_link" file="mors_1.STL" />
+        <mesh name="robot0:l_gripper_finger_link" file="mors_2.STL" />
     </asset>
     
     <default>
